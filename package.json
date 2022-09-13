@@ -4,7 +4,7 @@
   "description": "The best way to watch videos.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nomadcoders/wetube-reloaded.git"
+    "url": "git+https://github.com/HAERANGMAN/JS_clone_wetube.git"
   },
   "scripts": {
     "start": "node build/init.js",
@@ -17,9 +17,9 @@
   "author": "Nicolas Serrano <nico@nomadcoders.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nomadcoders/wetube-reloaded/issues"
+    "url": "https://github.com/HAERANGMAN/JS_clone_wetube.git/issues"
   },
-  "homepage": "https://github.com/nomadcoders/wetube-reloaded#readme",
+  "homepage": "https://github.com/HAERANGMAN/JS_clone_wetube.git#readme",
   "dependencies": {
     "@ffmpeg/core": "^0.8.5",
     "@ffmpeg/ffmpeg": "^0.9.7",
